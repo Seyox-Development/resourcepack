@@ -10,7 +10,7 @@ kunnen het hier downloaden en via de normale manier de resourcepack inladen.
 - Vehicles (voertuigen)
 
 ## Disclaimer
-Alle problemen die je ervaart met de recoursepack kan je in de issues tab zetten van deze github repo.
+Alle problemen die je ervaart met de resourcepack kan je in de issues tab zetten van deze github repo.
 Wij zorgen er dan voor dat deze problemen verholpen worden.
 
 ## Authors
