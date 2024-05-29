@@ -1,7 +1,7 @@
 # Seyox 2.0 Resourcepack
 
 Dit is de release/download pagina van alle JAVA resourcepacks.
-Het verkrijgen ca deze resourcepacks kan ook gewoon ingame, maar voor de personen waar dit niet lukt/te lang duurt,
+Het verkrijgen van deze resourcepacks kan ook gewoon in game, maar voor de personen waar dit niet lukt/te lang duurt,
 kunnen het hier downloaden en via de normale manier de resourcepack inladen.
 
 ## Packs/Addons
