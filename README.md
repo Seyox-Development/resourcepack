@@ -15,4 +15,4 @@ Wij zorgen er dan voor dat deze problemen verholpen worden.
 
 ## Authors
 - ThebigTijn [https://github.com/ThebigTijn](https://github.com/ThebigTijn)
-- Duwp [https://github.com/pwuddle](https://github.com/pwuddle)
+- duwp [https://github.com/pwuddle](https://github.com/pwuddle)
