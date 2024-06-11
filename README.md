@@ -6,8 +6,6 @@ kunnen het hier downloaden en via de normale manier de resourcepack inladen.
 
 ## Packs/Addons
 - Main (default)
-- Armor CIT (optifine armor)
-- Vehicles (voertuigen)
 
 ## Disclaimer
 Alle problemen die je ervaart met de resourcepack kan je in de issues tab zetten van deze github repo.
@@ -15,4 +13,4 @@ Wij zorgen er dan voor dat deze problemen verholpen worden.
 
 ## Authors
 - ThebigTijn [https://github.com/ThebigTijn](https://github.com/ThebigTijn)
-- Duwp [https://github.com/pwuddle](https://github.com/pwuddle)
+- duwp [https://github.com/pwuddle](https://github.com/pwuddle)
